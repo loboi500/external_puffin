@@ -1,9 +1,3 @@
-# This file is for libpuffdiff in Chrome OS.
-
-Name: libpuffdiff
-Description: Puffin library for generating delta patches
-Version: 1.0.0
-# libpuffdiff library is static lib ATM, so we don't use private versions of
-# Libs and Requires fields.
-Libs: -lpuffdiff
-Requires: libpuffpatch libbsdiff
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f5ffc0033595c6b5f7176d0f0be450166dc5ef211538dc3492d9a44501242a2
+size 291
